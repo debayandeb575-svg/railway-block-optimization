@@ -1,0 +1,37 @@
+[
+  {
+    "time": 1,
+    "track": "T2",
+    "work": "M1",
+    "dept": "PWay",
+    "type": "Tamping"
+  },
+  {
+    "time": 1,
+    "track": "T2",
+    "work": "M2",
+    "dept": "TRD",
+    "type": "OHE Check"
+  },
+  {
+    "time": 3,
+    "track": "T4",
+    "work": "M3",
+    "dept": "PWay",
+    "type": "Rail Grinding"
+  },
+  {
+    "time": 3,
+    "track": "T4",
+    "work": "M4",
+    "dept": "S&T",
+    "type": "Signal Repair"
+  },
+  {
+    "time": 4,
+    "track": "T5",
+    "work": "M5",
+    "dept": "PWay",
+    "type": "Ballast Cleaning"
+  }
+]
